@@ -1,13 +1,5 @@
 /*Array implementation of Circular Queue*/
 
-/*
-name = Narendra Dukhande
-Roll No. = 16
-pid = 13
-SE-IT (sem 3)
-2023-24
-*/
-
 #include<stdio.h>
 int f=-1, r=-1;
 int n=5, x, choice;
