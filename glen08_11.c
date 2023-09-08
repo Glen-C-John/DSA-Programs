@@ -1,13 +1,5 @@
 /*Array impimentation of stack*/
 
-/*
-name = Narendra Dukhande
-Roll No. = 16
-pid = 11
-SE-IT (sem 3)
-2023-24
-*/
-
 #include<stdio.h>
 int head = -1;
 int n=5, x, choice;
